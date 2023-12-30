@@ -3,6 +3,7 @@
  Auteurs : *Thomas Chen, Félix de Champs, David Premachandra*  
 
 # Sujet :
+<div align="justify">
 En octobre 2022, le Président de la République avait annoncé la création d’une météo des forêts destinée à mieux informer les Français sur le risque de feux.  
 Depuis le 1er juin 2023, tous les jours à 17h, Météo France diffuse donc ce nouveau dispositif pour indiquer le niveau de danger de feux en France métropolitaine. Cette information est établie à partir des prévisions de plusieurs paramètres météorologiques qui influencent fortement le départ et la propagation des feux : pluie, humidité de l’air, température, force du vent et état de sécheresse de la végétation.  
 La météo des forêts n’informe pas sur les incendies en cours ou à venir, c’est un outil d’information et de prévention destiné au public. Son objectif est d’indiquer les zones dans lesquelles les conditions météorologiques peuvent aggraver le risque de feux et de rappeler les bons réflexes pour éviter les départs de feux.  
