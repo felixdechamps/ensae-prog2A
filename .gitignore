@@ -159,4 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-data/
+data/SE_ground_stations_2018.tar.gz
+data/SE2018.csv
+data/geojson?lang=fr&timezone=Europe%2FBerlin
+data/ms:PARC_PUBL_FR?format=GeoJSON&projection=WGS84
