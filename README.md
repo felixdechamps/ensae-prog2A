@@ -24,9 +24,9 @@ Nous avons utilisé principalement la [**régression logistique**](https://www.g
 - [Base de données Geojson des communes françaises](https://public.opendatasoft.com/explore/dataset/georef-france-commune/information/?disjunctive.reg_name&disjunctive.dep_name&disjunctive.arrdep_name&disjunctive.ze2020_name&disjunctive.bv2022_name&disjunctive.epci_name&disjunctive.ept_name&disjunctive.com_name&disjunctive.ze2010_name&disjunctive.com_is_mountain_area&sort=-com_name&refine.dep_name=Bouches-du-Rh%C3%B4ne) et sur les [régions françaises](https://france-geojson.gregoiredavid.fr/repo/regions.geojson) qui permettent de retracer sur un fond de carte les communes touchées par les incendies.
 
 # Navigation au sein du projet : 
-Il suffit d'exucuter successivement les cellules du notebook : [notebookincendie.ipynb](notebookincendies.ipynb)
+Il suffit d'exécuter successivement les cellules du notebook : [notebookincendie.ipynb](notebookincendies.ipynb)
 
 # Remarque sur la reproductibilité : 
-La base de données de meteonet est trop grosse pour pouvoir être chargée directement sur Github, par conséquent l'utilisateur du [notebookincendie.ipynb](notebookincendies.ipynb) est prié de la télécharger sur le site de meteonet et de l'uploader sur VS Code.
+**Attention** à ce que le dossier **ensae-prog2A** ne soit pas dans le **work**, afin que les chemins utilisés pour accéder aux fichiers correspondent bien au code du notebook.
 
 Autres sources : [Ministère de l'écologie](https://www.ecologie.gouv.fr/feux-foret-en-france)
